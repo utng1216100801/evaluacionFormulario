@@ -1,0 +1,9 @@
+[
+    {"component":"text", "label":"First Name", "name":"firstName", "type":"text", "checked":true},
+    {"component":"text", "label":"Last Name", "name":"lastName", "type":"text", "checked":true},
+    {"component":"text", "label":"Email", "name":"email", "type":"email", "checked":false},
+    {"component":"text", "label":"Birthdate", "name":"birthdate", "type":"date", "checked":false},
+    {"component":"text", "label":"Phone", "name":"phone", "type":"number", "checked":false},
+    {"component":"radio", "label":"Gender", "name":"gender", "type":"radio", "option":[{"label":"Man"},{"label":"Woman"}], "checked":false},
+    {"component":"select", "label":"Level of study", "name":"level", "type":"select", "option":[{"label":"High School"},{"label":"Bachelor’s Degree"}, {"label":"Master’s Degree"}, {"label":"Doctorate"}], "checked":false}
+]
